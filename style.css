@@ -185,7 +185,6 @@ header {
 
 .header-left h1 {
     max-width: 40vw;
-    /* width: 450px; */
     margin-top: 20px;
 }
 
@@ -234,20 +233,14 @@ header {
 .lower-brands {
     padding-top: 50px;
     text-align: center;
-    /* padding-left: 70px; */
 }
 
 .lower-brands img {
     height: 50px;
 }
 
-/* .lb-ul{
-    border: 1px solid black;
-} */
-
 .brands-space {
     margin-left: 50px;
-    /* border: 1px solid black; */
     width: 80%;
     gap: 20px;
     display: flex;
@@ -262,21 +255,14 @@ header {
 }
 
 .brands-space1 {
-    /* max-width: fit-content; */
     margin-top: 20px;
     margin-left: 50px;
-    /* border: 1px solid black; */
     display: flex;
     flex-direction: column;
     gap: 20px;
 }
 
-/* .lb-ul2{ 
-    border: 1px solid black;
-} */
-
 .lb-ul2 li a {
-    /* max-width: 70%; */
     margin-right: 90px;
 }
 
